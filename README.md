@@ -11,4 +11,4 @@ I'm Jules, a passionate junior developer exploring the realms of code! 🚀✨
 
 Let's connect and create some awesome code together! 😄👍
 
-Feel free to reach out: Mail = jules2b.dev@gmail.com 📩 | twitter = jdev2B 🐦 | LinkedIn  = 💼
+Feel free to reach out: Mail = jules2b.dev@gmail.com 📩 | twitter = @jdev2B 🐦 | LinkedIn  = 💼
