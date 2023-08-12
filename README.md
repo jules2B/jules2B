@@ -18,3 +18,5 @@ Feel free to reach out: Mail = jules2b.dev@gmail.com 📩 | twitter = @jdev2B �
 [![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-circle&logo=html5&logoColor=white)](https://example.com)
 [![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-circle&logo=css3&logoColor=white)](https://example.com)
 [![École 42](https://img.shields.io/badge/École-42-000000?style=flat-square)](https://www.42.fr/)
+[![Shell](https://img.shields.io/badge/-Shell-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)](https://example.com)
+[![OpenClassrooms](https://img.shields.io/badge/OpenClassrooms-Student-139BFC?style=flat-square)](https://www.openclassrooms.com/)
