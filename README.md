@@ -20,4 +20,4 @@ Feel free to reach out: Mail = jules2b.dev@gmail.com ðŸ“© | twitter = @jdev2B ðŸ
 ![Les Stats GitHub de Anurag](https://github-readme-stats.vercel.app/api?username=jules2B&show_icons=true&theme=radical)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jules2B&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
