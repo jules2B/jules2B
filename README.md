@@ -1,16 +1,14 @@
-### Hi there 👋
 
-<!--
-**jules2B/jules2B** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hey there! 👋
 
-Here are some ideas to get you started:kkk
+I'm Jules, a passionate junior developer exploring the realms of code! 🚀✨
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Currently discovering the wonderful world of programming.
+- 🌱 Learning and growing every day.
+- 💡 Always excited about new challenges and opportunities.
+- 🎵 Lofi beats with my headphones on while coding is my kind of symphony. 🎧🎶
+- 📚 Sharing my journey and knowledge with the world.
+
+Let's connect and create some awesome code together! 😄👍
+
+Feel free to reach out: Mail = jules2b.dev@gmail.com 📩 | twitter = jdev2B 🐦 | LinkedIn  = 💼
