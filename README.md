@@ -14,8 +14,7 @@ Let's connect and create some awesome code together! 😄👍
 Feel free to reach out: Mail = jules2b.dev@gmail.com 📩 | twitter = @jdev2B 🐦 | LinkedIn  = 💼
 
 Languages and tools: 
-
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
+[<img align="left" alt="AWS"width="25px"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
           
 
 
