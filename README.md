@@ -18,6 +18,4 @@ Feel free to reach out: Mail = jules2b.dev@gmail.com ðŸ“© | twitter = @jdev2B ðŸ
 [![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-circle&logo=css3&logoColor=white)](https://example.com)
 
 
-![Les Stats GitHub de Anurag](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
-[![Les Stats GitHub de Anurag](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
-![Les Stats GitHub de Anurag](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)
+[![Les Stats GitHub de Anurag](https://github-readme-stats.vercel.app/api?username=Jules2B)](https://github.com/anuraghazra/github-readme-stats)
