@@ -15,5 +15,8 @@ Feel free to reach out: Mail = jules2b.dev@gmail.com ðŸ“© | twitter = @jdev2B ðŸ
 
 
         
-
+![Langage](https://img.shields.io/badge/Langage-C-blue)
+![Langage](https://img.shields.io/badge/Langage-HTML-orange)
+![Langage](https://img.shields.io/badge/Langage-CSS-brightgreen)
+![Langage](https://img.shields.io/badge/Langage-Ruby-red)
 
