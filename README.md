@@ -6,7 +6,7 @@ I'm Jules, a passionate junior developer exploring the realms of code! 🚀✨
 - 🔭 Currently discovering the wonderful world of programming.
 - 🌱 Learning and growing every day.
 - 💡 Always excited about new challenges and opportunities.
-- 🎵 Lofi beats with my headphones on while coding is my kind of symphony. 🎧🎶
+- 🎵 Lofi beats with my airpods on while coding is my kind of symphony. 🎧🎶
 - 🚀 Marketing enthusiast with a knack for turning ideas into thriving ventures. 📊
 
 Let's connect and create some awesome code together! 😄👍
