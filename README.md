@@ -13,8 +13,7 @@ Let's connect and create some awesome code together! 😄👍
 
 Feel free to reach out: Mail = jules2b.dev@gmail.com 📩 | twitter = @jdev2B 🐦 | LinkedIn  = 💼
 
-Languages and tools: 
-![Cover](https://github.com/NicolasBrondin/NicolasBrondin/blob/master/img/cover.jpg)
+
         
 
 
