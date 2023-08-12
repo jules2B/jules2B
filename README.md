@@ -17,5 +17,6 @@ Feel free to reach out: Mail = jules2b.dev@gmail.com ðŸ“© | twitter = @jdev2B ðŸ
 [![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-circle&logo=html5&logoColor=white)](https://example.com)
 [![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-circle&logo=css3&logoColor=white)](https://example.com)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-![Les Stats GitHub de Anurag](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Les Stats GitHub de jules2B](https://github-readme-stats.vercel.app/api?username=jules2B&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jules2B&layout=compact)](https://github.com/jules2B/github-readme-stats)
+
