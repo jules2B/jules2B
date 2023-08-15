@@ -6,12 +6,11 @@ I'm Jules, a passionate junior developer exploring the realms of code! 🚀✨
 - 🔭 Currently discovering the wonderful world of programming.
 - 🌱 Learning and growing every day.
 - 💡 Always excited about new challenges and opportunities.
-- 🎵 Lofi beats with my airpods on while coding is my kind of symphony. 🎧🎶
 - 🚀 Passionate about marketing and entrepreneurship, I enjoy working in a group on a common project ... 📊
 
 Let's connect and create some awesome code together! 😄👍
 
-Feel free to reach out: Mail = jules2b.dev@gmail.com 📩 | twitter = @jdev2B 🐦 | LinkedIn  = 💼
+ Mail = jules2b.dev@gmail.com 📩 | twitter = @jdev2B 🐦 | LinkedIn  = 💼
 
 [![C](https://img.shields.io/badge/-C-00599C?style=flat-circle&logo=c&logoColor=white)](https://example.com)
 [![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-circle&logo=html5&logoColor=white)](https://example.com)
