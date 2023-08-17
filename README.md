@@ -1,5 +1,6 @@
+![Uploading pexels-helena-lopes-1389339.jpg…]()
 
-## Hello ! 👋
+## Hello ! 
 
 I'm Jules, a passionate junior developer exploring the realms of code! 🚀✨
 
