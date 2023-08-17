@@ -1,6 +1,6 @@
-![Uploading pexels-helena-lopes-1389339.jpg…]()
 
 ## Hello ! 
+![pexels-helena-lopes-1389339](https://github.com/jules2B/jules2B/assets/135122093/efc19684-f5aa-49a3-aa7b-4e4fcab599d2)
 
 I'm Jules, a passionate junior developer exploring the realms of code! 🚀✨
 
