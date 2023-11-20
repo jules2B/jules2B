@@ -2,8 +2,7 @@
 ## Hello ! 
 
 
-- 🔭 Currently discovering the wonderful world of programming.
-- 🚀 Passionate about marketing and entrepreneurship, I enjoy working in a group on a common project ... 📊
+Let's connect
 
 
 [![C](https://img.shields.io/badge/-C-00599C?style=flat-circle&logo=c&logoColor=white)](https://example.com)
