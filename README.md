@@ -1,6 +1,6 @@
 
 <!--Lofiboy-->
-[![via GIPHY](https://giphy.com/gifs/hacker-sugartown-mayor-mel-Rpl1sod1vCXK0L2SUN)](https://giphy.com/gifs/hacker-sugartown-mayor-mel-Rpl1sod1vCXK0L2SUN)
+![via GIPHY](https://media.giphy.com/media/Rpl1sod1vCXK0L2SUN/giphy.gif)
 
 
 <div align="center">
