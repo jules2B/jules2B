@@ -1,6 +1,6 @@
 
 <!--Lofiboy-->
-![via GIPHY](https://media.giphy.com/media/Rpl1sod1vCXK0L2SUN/giphy.gif)
+![via GIPHY](https://giphy.com/gifs/chillhopmusic-chillhop-MU56lYT1Ov07fVTsnM)
 
 
 <div align="center">
