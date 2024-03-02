@@ -7,6 +7,4 @@ C'est un rappel amical de votre rendez-vous de consultation ostéopathique avec 
 
 Pour annuler ou reporter, utilisez le lien dans votre confirmation ou appelez-nous.
 
-Hâte de vous voir !
-
 
