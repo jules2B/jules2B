@@ -9,4 +9,4 @@ Pour annuler ou reporter, utilisez le lien dans votre confirmation ou appelez-no
 
 Hâte de vous voir !
 
-[L'équipe du Cabinet/Ostéopathe]"
+
