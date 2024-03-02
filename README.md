@@ -7,4 +7,4 @@ C'est un rappel amical de votre rendez-vous de consultation ostéopathique avec 
 
 "Bonjour [Nom du Patient],
 
-C'est un rappel amical de votre rendez-vous de consultation ostéopathique avec [Nom du praticien] demain à [Heure] au [Adresse du Cabinet]. N'oubliez pas d'apporter tout document médical pertinent.
+C'est un rappel amical de votre rendez-vous de consultation ostéopathique a
